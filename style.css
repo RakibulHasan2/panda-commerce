@@ -1,7 +1,28 @@
+
 .background{
     background-color: #FEEAE9;
 }
 .heights{
     height: 350px;
     background-color: #FEEAE9;
+}
+.catagories img{
+    width: 100px;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.catagories-watch{
+    background-color: orange;
+}
+
+.catagories-bag{
+    background-color: orchid;
+}
+.catagories-shoe{
+    background-color: blue;
 }
